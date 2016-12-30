@@ -1,0 +1,29 @@
+{
+  "name": "quiz",
+  "version": "1.0.0",
+  "description": "Online Quiz Application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pritesh-D/quiz.git"
+  },
+  "keywords": [
+    "quiz",
+    "online",
+    "mcq",
+    "multiple-choice",
+    "online-quiz"
+  ],
+  "author": "pritesh-d",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pritesh-D/quiz/issues"
+  },
+  "homepage": "https://github.com/Pritesh-D/quiz#readme",
+  "dependencies": {
+    "mongodb": "2.2.16"
+  }
+}
